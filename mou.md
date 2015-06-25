@@ -1,6 +1,6 @@
 # Mou
 
-![Mou icon](http://25.io/mou/Mou_128.png =50x50)
+![Mou icon](http://25.io/mou/Mou_128.png)
 
 ## Overview
 
